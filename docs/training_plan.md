@@ -21,8 +21,13 @@
 * I18n & l10n
 * AQA
 
-## IV. Web Services development
-* REST; Web API
+## III. Web Services development
+* RESTful;
+* SOA architecture
+* Web API
+
+## IV. Front-end development
+* Javascript basics
 * ReactJS
 
 ## V. CI/CD
@@ -30,7 +35,7 @@
 * CI/CD principals
 * Github actions
 
-## VII. Best practices
+## VI. Best practices
 * Logging 
 * Debugging 
 * Other

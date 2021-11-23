@@ -10,6 +10,23 @@ All of the issues are tagged with two labels: *Probability* and *Impact*. Probab
 Pay close attention to the issues with high Probability because they **will** be in your code and they have to be fixed.<br/>
 It is recommended to start fixing issues marked as High impact because they can cause big rewrites in the system and will affect the final grade for the task.
 
+## General
+### 1) Pull request description according the [template](https://github.com/EPAM-Gomel-NET-Lab/Docs/blob/main/docs/pull_request_template.md]) is missed
+**Probability**: High</br>
+**Impact**: Low
+
+### 2) Readme file is not filled via "Steps how to check", "Credentials" etc information
+**Probability**: High</br>
+**Impact**: Low
+
+### 3) Dry run(build -> unit tests -> integration tests) is not performed before pull request creation
+**Probability**: Medium</br>
+**Impact**: Medium
+
+### 4) [Workflow](https://github.com/EPAM-Gomel-NET-Lab/Docs/blob/main/docs/workflow.md) is not followed
+**Probability**: Low</br>
+**Impact**: Medium
+
 ## Task 1
 ### 1) SELECT * in queriees
 **Probability**: High</br>

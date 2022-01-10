@@ -43,3 +43,16 @@ Another mistake is to test validation logic via integration test. Most of the ca
 ### 3) Storing connection string in a hardcoded variable
 **Probability**: Medium</br>
 **Impact**: Low
+
+## Task 2
+### 1) Smart controllers
+**Probability**: High</br>
+**Impact**: Medium
+
+Controllers contains any logic instead of simple input validation and services call. For the issue fix should be introduced or presentation layer specific services, or some logic extracted to the bussines layer.
+
+### 2) Controllers DRY violation
+**Probability**: Medium</br>
+**Impact**: Medium
+
+Some specific logic(e.g. wotk with specific cookie) is duplicated between different controllers/services. Specific service must be introduced.

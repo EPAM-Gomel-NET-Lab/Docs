@@ -55,4 +55,4 @@ Controllers contains any logic instead of simple input validation and services c
 **Probability**: Medium</br>
 **Impact**: Medium
 
-Some specific logic(e.g. wotk with specific cookie) is duplicated between different controllers/services. Specific service must be introduced.
+Some specific logic(e.g. work with specific cookie) is duplicated between different controllers/services. Specific service must be introduced.

@@ -56,3 +56,10 @@ Controllers contains any logic instead of simple input validation and services c
 **Impact**: Medium
 
 Some specific logic(e.g. work with specific cookie) is duplicated between different controllers/services. Specific service must be introduced.
+
+## Task 3
+### 1) Smart controllers
+**Probability**: High</br>
+**Impact**: Medium
+
+All logic should be allocated to the appropriate levels: access to the file in repository; validations(in case they are) for services/validators.

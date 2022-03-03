@@ -11,7 +11,7 @@ Pay close attention to the issues with high Probability because they **will** be
 It is recommended to start fixing issues marked as High impact because they can cause big rewrites in the system and will affect the final grade for the task.
 
 ## General
-### 1) Pull request description according the [template](https://github.com/EPAM-Gomel-NET-Lab/Docs/blob/main/docs/pull_request_template.md]) is missed
+### 1) Pull request description according the [template](https://github.com/EPAM-Gomel-NET-Lab/Docs/blob/main/docs/pull_request_template.md) is missed
 **Probability**: High</br>
 **Impact**: Low
 
@@ -63,3 +63,11 @@ Some specific logic(e.g. work with specific cookie) is duplicated between differ
 **Impact**: Medium
 
 All logic should be allocated to the appropriate levels: access to the file in repository; validations(in case they are) for services/validators.
+
+
+## Task 3
+### 1) Not REST routes
+**Probability**: High</br>
+**Impact**: High
+
+Route should follow REST [best practices](https://github.com/microsoft/api-guidelines). Mustn't be used verbs, or actions description.

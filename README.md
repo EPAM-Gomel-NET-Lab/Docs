@@ -58,7 +58,7 @@ root/
 If should use solution template as a starting point in your softwared design process. You may find it ![here](https://github.com/Taturevich/.net-lab-process.students/tree/master/solution_template)
 
 # Software used in lab
-* Visual Studio 2019 Community [downloads](https://visualstudio.microsoft.com/downloads/).
+* Visual Studio 2022 Community [downloads](https://visualstudio.microsoft.com/downloads/).
 * We are using [NUnit](https://nunit.org/) test runner.
 * MSSQL Server 2019 developer edition [download](https://go.microsoft.com/fwlink/?linkid=866662).
 * SQL Server Management Studio [download](https://aka.ms/ssmsfullsetup).

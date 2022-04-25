@@ -4,7 +4,7 @@ Hello! Welcome to EPAM .NET lab. Please read this file carefully. It contains an
 Please consider this lab as your first production project. Good luck! We are looking forward to seeing your amazing work.
 
 # Lectures
-- This course contains of 80 hours of lectures.
+- This course contains of 100 hours of lectures.
 - Course duration is approximately 5 month.
 - Please try not to miss lectures.
 

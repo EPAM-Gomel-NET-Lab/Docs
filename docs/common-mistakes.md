@@ -65,9 +65,16 @@ Some specific logic(e.g. work with specific cookie) is duplicated between differ
 All logic should be allocated to the appropriate levels: access to the file in repository; validations(in case they are) for services/validators.
 
 
-## Task 3
+## Task 4
 ### 1) Not REST routes
 **Probability**: High</br>
 **Impact**: High
 
 Route should follow REST [best practices](https://github.com/microsoft/api-guidelines). Mustn't be used verbs, or actions description.
+
+
+### 2) Smart controllers
+**Probability**: High</br>
+**Impact**: Medium
+
+All logic should be allocated to the appropriate levels: access to the file in repository; validations(in case they are) for services/validators.
